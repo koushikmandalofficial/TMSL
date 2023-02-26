@@ -4,7 +4,8 @@ Command :
 Output :
           NAME       LINE     TIME        COMMENT
           student    tty2     2023-02-23   (tty2)
-           
+         
+         
            
 #Question Number 2:
 Command(For record the session):
@@ -16,7 +17,8 @@ Command(For display the content):
           cat typescript
 Output :
           script started, output log file is 'typescript'
-            
+         
+         
             
 #Question Number 3:
 Command :
@@ -29,13 +31,15 @@ Command :
 Output :
           4.16.11-100.fc26.x86_64
       
-                 
+       
+       
 #Question Number 4:
 Command :
           tty
 Output :
           /dev/pts/3
-          
+       
+       
                     
 #Question Number 5:
 i) For current month :
@@ -59,18 +63,43 @@ Output :
           ...
          
          
-            
+         
 #Question Number 6:
 Command :
-          uanme
+          date
 Output :
-          Linux
+          Sun Feb 26 10:39:46 PM UTC 2023
+          
+          
+          
+#Question Number 7:
 Command :
-          uanme -r
+          echo "9/5" | bc -l
 Output :
-          4.16.11-100.fc26.x86_64
-         
-   
+          1.80000000000000000000
+          
+          
+          
+#Question Number 8:
+Command(Convert to octal):
+          echo "obase=8; 34" | bc
+Output :
+          42
+          
+Command(Convert to hexadecimal):
+          echo "obase=2; 34" | bc
+Output :
+          100010
+          
+Command(Convert to binary):
+          echo "obase=2; 34" | bc
+Output :
+          100010
+          
+          
+          
+
+
           
   
             
