@@ -98,6 +98,23 @@ Output :
           
           
           
+#Question Number 9:
+Command(Convert to octal):
+          echo "obase=8; ibase=16; AB" | bc
+Output :
+          253
+          
+Command(Convert to decimal):
+          echo "ibase=16; AB" | bc
+Output :
+          171
+          
+Command(Convert to binary):
+          echo "obase=2; ibase=16; AB" | bc
+Output :
+          10101011
+          
+          
 
 
           
