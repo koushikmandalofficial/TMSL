@@ -113,6 +113,47 @@ Command(Convert to binary):
           echo "obase=2; ibase=16; AB" | bc
 Output :
           10101011
+   
+   
+   
+#Question Number 10:
+Command :
+          echo "My name is Koushik Mandal and my roll number is 29"
+Output :
+          My name is Koushik Mandal and my roll number is 29
+          
+          
+#Question Number 11:
+Command :
+          clear
+Output :
+
+
+        
+#Question Number 12:
+Command :
+          echo "for (i=1; i<=10; i++) { i }" | bc
+Output :
+          1
+          2
+          3
+          4
+          5
+          6
+          7
+          8
+          9
+          10
+
+
+          
+#Question Number 13:
+Command :
+          exit
+Output :
+          
+          
+          
           
           
 
