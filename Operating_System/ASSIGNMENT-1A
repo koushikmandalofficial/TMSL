@@ -13,6 +13,9 @@ Output :
           script started, output log file is 'typescript'
           
 Command(For display the content):
+          cat typescript
+Output :
+          script started, output log file is 'typescript'
             
             
 #Question Number 3:
@@ -25,9 +28,16 @@ Command :
           uanme -r
 Output :
           4.16.11-100.fc26.x86_64
+      
+                 
+#Question Number 4:
+Command :
+          tty
+Output :
+          /dev/pts/3
           
                     
-#Question Number 4:
+#Question Number 5:
 i) For current month :
 Command :
           cal
@@ -50,7 +60,7 @@ Output :
          
          
             
-#Question Number 4:
+#Question Number 6:
 Command :
           uanme
 Output :
