@@ -7,11 +7,12 @@ Output :
            
            
 #Question Number 2:
-Command :
-          who -H
+Command(For record the session):
+          script
 Output :
-          NAME       LINE     TIME                COMMENT
-          koushik    tty2     2023-02-23 20:35    (:1)
+          script started, output log file is 'typescript'
+          
+Command(For display the content):
             
             
 #Question Number 3:
@@ -19,6 +20,7 @@ Command :
           uanme
 Output :
           Linux
+          
 Command :
           uanme -r
 Output :
@@ -38,12 +40,27 @@ Command :
 Output :
           ...
           
-iii) For current year :
+iii) For present month of previous year :
 Command :
-          cal 2023
+          cal 2 2022  
+          or
+          cal -y $(date -d "last year" +%Y) -1
 Output :
           ...
-          
+         
+         
+            
+#Question Number 4:
+Command :
+          uanme
+Output :
+          Linux
+Command :
+          uanme -r
+Output :
+          4.16.11-100.fc26.x86_64
+         
+   
           
   
             
