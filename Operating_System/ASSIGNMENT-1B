@@ -86,9 +86,9 @@ Output :
 Command :
           ls -i1
 Output :  
-          412404  file1  
-          412405  file2  
-          412406  file3
+          98031  file1  
+          98032  file2  
+          98033  file3
               
               
               
@@ -103,6 +103,60 @@ Output :
 Command :
           cp -i file2  file4
 Output :
+
+
+#Question Number 14:
+Command :
+          cp file1 file2 ../BATCH_B
+Output :
+
+
+#Question Number 15:
+Command :
+          mv file3 file5
+Output :
+
+
+#Question Number 16:
+Command :
+          mv file5 ../BATCH_B
+Output :
+
+
+
+#Question Number 17:
+Command :
+          rm file1
+Output :
+         
+
+
+#Question Number 18:
+i) Command (For Hard Link):
+         ln  file5  file6
+   Output :
+ 
+ii) Command (For Hard Link):
+         ln  -s  file5  file7
+    Output :
+
+
+
+#Question Number 19:
+Command :
+          ls -li
+Output :
+          ...
+          
+          
+          
+#Question Number 20:
+Command :
+          rm -dir -rf BATCH_B
+Output 
+
+
+
 
 
 
