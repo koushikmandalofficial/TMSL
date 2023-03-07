@@ -1,1 +1,73 @@
+#Question Number 1:
+Command :
+          mkdir -p TMSL/{MBA,MCA} TMSL/MCA/{BATCH_A,BATCH_B)
+Output :
+     
+ 
+ 
+#Question Number 2:
+Command :
+          cd TMSL/MCA/BATCH_A
+Output :
 
+
+
+#Question Number 3:
+Command :
+          cat > file1
+Output :
+          
+          
+          
+#Question Number 4:
+Command :
+          echo "MCA TMSL 2ND SEM" >> file1
+Output :
+
+
+#Question Number 5:
+Command :
+          cat > file2
+Output :
+
+
+
+#Question Number 6:
+Command :
+          echo "We are present in OS lab class" >> file2
+Output :
+
+
+
+
+#Question Number 7:
+Command :
+          cat {file1,file2}
+Output :
+          MCA TMSL 2ND SEM
+          We are present in OS lab class
+          
+          
+          
+#Question Number 8:
+Command :
+          touch file3
+Output :
+
+
+
+
+#Question Number 9:
+Command :
+          cat file1 file2 >> file3
+Output :
+
+
+
+#Question Number 10:
+Command :
+          ls
+Output :  
+          file1  file2  fil3
+          
+          
