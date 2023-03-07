@@ -68,6 +68,51 @@ Output :
 Command :
           ls
 Output :  
-          file1  file2  fil3
+          file1  file2  file3
+          
+          
+          
+#Question Number 10:
+Command :
+          ls -i1
+Output :  
+          412404  file1  
+          412405  file2  
+          412406  file3
+          
+   
+   
+#Question Number 11:
+Command :
+          ls -i1
+Output :  
+          412404  file1  
+          412405  file2  
+          412406  file3
+              
+              
+              
+#Question Number 12:
+Command :
+          touch file4
+Output :
+
+
+
+#Question Number 13:
+Command :
+          cp -i file2  file4
+Output :
+
+
+
+
+
+
+
+
+
+      
+
           
           
