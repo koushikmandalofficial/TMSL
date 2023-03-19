@@ -1,0 +1,156 @@
+#Question Number 1:
+Command :
+          mkdir -p TMSL/{MBA,MCA} TMSL/MCA/{BATCH_A,BATCH_B)
+Output :
+     
+ 
+ 
+#Question Number 2:
+Command :
+          cd TMSL/MCA/BATCH_A
+Output :
+
+
+
+#Question Number 3:
+Command :
+          cat > file1
+Output :
+          
+          
+          
+#Question Number 4:
+Command :
+          echo "MCA TMSL 2ND SEM" >> file1
+Output :
+
+
+#Question Number 5:
+Command :
+          cat > file2
+Output :
+
+
+
+#Question Number 6:
+Command :
+          echo "We are present in OS lab class" >> file2
+Output :
+
+
+
+
+#Question Number 7:
+Command :
+          cat {file1,file2}
+Output :
+          MCA TMSL 2ND SEM
+          We are present in OS lab class
+          
+          
+          
+#Question Number 8:
+Command :
+          touch file3
+Output :
+
+
+
+
+#Question Number 9:
+Command :
+          cat file1 file2 >> file3
+Output :
+
+
+
+#Question Number 10:
+Command :
+          ls
+Output :  
+          file1  file2  file3
+          
+          
+          
+#Question Number 10:
+Command :
+          ls -i1
+Output :  
+          412404  file1  
+          412405  file2  
+          412406  file3
+          
+   
+   
+#Question Number 11:
+Command :
+          ls -i1
+Output :  
+          98031  file1  
+          98032  file2  
+          98033  file3
+              
+              
+              
+#Question Number 12:
+Command :
+          touch file4
+Output :
+
+
+
+#Question Number 13:
+Command :
+          cp -i file2  file4
+Output :
+
+
+#Question Number 14:
+Command :
+          cp file1 file2 ../BATCH_B
+Output :
+
+
+#Question Number 15:
+Command :
+          mv file3 file5
+Output :
+
+
+#Question Number 16:
+Command :
+          mv file5 ../BATCH_B
+Output :
+
+
+
+#Question Number 17:
+Command :
+          rm file1
+Output :
+         
+
+
+#Question Number 18:
+i) Command (For Hard Link):
+         ln  file5  file6
+   Output :
+ 
+ii) Command (For Hard Link):
+         ln  -s  file5  file7
+    Output :
+
+
+
+#Question Number 19:
+Command :
+          ls -li
+Output :
+          ...
+          
+          
+          
+#Question Number 20:
+Command :
+          rm -dir -rf BATCH_B
+Output:
