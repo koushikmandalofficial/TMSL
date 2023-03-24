@@ -1,0 +1,23 @@
+Command For Create Two File :
+          touch DATA1
+          touch DATA2
+
+Command For Insert Content In DATA1 :
+          echo 'AB|CD|EF|GH' >  DATA1
+          echo 'IJ|KL|MN|OP' >> DATA1
+          echo 'QR|ST|UV|WX' >> DATA1
+          echo 'YZ|12|34|56' >> DATA1
+          echo '78|90|A1|B1' >> DATA1
+          
+Command For Insert Content In DATA2 :
+          echo '10' > DATA2
+          echo '4' >> DATA2
+          echo '27' >> DATA2
+          echo '27' >> DATA2
+          echo '80' >> DATA2
+          echo '80' >> DATA2
+          echo '80' >> DATA2
+          echo '4' >> DATA2
+          echo '4' >> DATA2
+          echo '99' >> DATA2
+          echo '80' >> DATA2
