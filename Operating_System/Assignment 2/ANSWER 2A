@@ -21,3 +21,74 @@ Command For Insert Content In DATA2 :
           echo '4' >> DATA2
           echo '99' >> DATA2
           echo '80' >> DATA2
+
+
+
+#Question Number 1:
+Command :
+          head -n 4 DATA1 | tail -n 3
+Output :
+          IJ|KL|MN|OP
+          QR|ST|UV|WX
+          YZ|12|34|56
+          
+          
+          
+#Question Number 2:
+Command :
+          cut -d "|" -f 2,3 DATA1 | head -4 | tail -2
+Output :
+          ST|UV
+          12|34
+          
+          
+          
+#Question Number 3:
+Command :
+          cut -d "|" -f 2,3 DATA1 | head -4 | tail -2
+Output :
+          10;AB|CD|EF|GH
+          4;IJ|KL|MN|OP
+          27;QR|ST|UV|WX
+          27;YZ|12|34|56
+          80;78|90|A1|B1
+          80;
+          80;
+          4;
+          4;
+          99;
+          80;
+          
+          
+          
+#Question Number 4:
+Command :
+          cal 2012 | head -10 | cut -c 44-
+Output :
+              March 2023      
+          Su Mo Tu We Th Fr Sa  
+                       1  2  3  
+           4  5  6  7  8  9 10  
+          11 12 13 14 15 16 17  
+          18 19 20 21 22 23 24  
+          25 26 27 28 29 30 31  
+          
+  
+  
+#Question Number 5:
+Command :
+          sort -n DATA2 | uniq -c
+Output :
+             2 4
+             2 27
+             1 10
+             1 80
+             1 99
+
+          
+
+    
+          
+          
+
+          
