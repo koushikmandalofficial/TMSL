@@ -147,7 +147,29 @@ Output :
           YZ 12 34 56
           78 90 A1 B1
 
+
+
+#Question Number 11:
+Command :
+          awk '{ORS=(NR%3?",":"\n"); print}' DATA2
+Output :
+         10,4,27
+         27,80,80
+         80,4,4
+         99,80
          
+         
+         
+#Question Number 12:
+Command :
+          tac DATA1
+Output :
+          78;90;A1;B1
+          YZ;12;34;6
+          QR;ST;UV;WX
+          IJ;KL;MN;OP
+          AB;CD;EF;GH
+    
 
           
           
