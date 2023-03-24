@@ -84,8 +84,54 @@ Output :
              1 10
              1 80
              1 99
+                 
+             
+
+#Question Number 6:
+Command :
+          sed -i 's/|/;/g' DATA1
+Output :
+
+
+
+#Question Number 7:
+Command :
+          cut -d ';' -f 2,4 DATA1
+Output :
+          CD;GH
+          KL;OP
+          ST;WX
+          12;56
+          90;B1
+          
+          
+          
+#Question Number 8:
+Command :
+          sed -e 's/^/     /' -e 's/^/\n\n/' DATA1
+Output :
+               AB;CD;EF;GH
+
+
+               IJ;KL;MN;OP
+
+
+               QR;ST;UV;WX
+
+
+               YZ;12;34;56
+
+
+               78;90;A1;B1
+
+
 
           
+          
+
+
+
+
 
     
           
