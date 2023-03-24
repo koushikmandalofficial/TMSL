@@ -125,6 +125,29 @@ Output :
                78;90;A1;B1
 
 
+#Question Number 9:
+Command :
+          sort -t ';' -k3rn DATA1
+Output :
+          QR|ST|UV|WX
+          IJ|KL|MN|OP
+          AB|CD|EF|GH
+          78|90|A1|B1
+          YZ|12|34|56
+          
+          
+          
+#Question Number 10:
+Command :
+          tr '|' ' ' < DATA1
+Output :
+          AB CD EF GH
+          IJ KL MN OP
+          QR ST UV WX
+          YZ 12 34 56
+          78 90 A1 B1
+
+         
 
           
           
