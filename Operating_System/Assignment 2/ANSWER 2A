@@ -45,7 +45,7 @@ Output :
           
 #Question Number 3:
 Command :
-          cut -d "|" -f 2,3 DATA1 | head -4 | tail -2
+          paste -d ";" DATA2 DATA1
 Output :
           10;AB|CD|EF|GH
           4;IJ|KL|MN|OP
