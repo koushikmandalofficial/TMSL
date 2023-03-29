@@ -1,0 +1,113 @@
+#Question Number 1:
+Command :
+          touch file87
+Output :
+
+
+
+#Question Number 2:
+Command :
+          echo "emp004 | representative
+          emp009 | service manager
+          emp021 | scientist
+          emp002 | Business support
+          emp078 | support manager
+          emp065 | technician
+          emp082 | quality control inspector" >> file87
+Output : 
+
+
+#Question Number 2a:
+Command :
+          cut -d '|' -f1 file87
+Output :  
+          emp004
+          emp009
+          emp021
+          emp002
+          emp078
+          emp065
+          emp082
+          
+          
+          
+#Question Number 2b:
+Command :
+         cut -d '|' -f2 file87
+Output :  
+          representative
+          service manager
+          scientist
+          Business support
+          support manager
+          technician
+          quality control inspector
+          
+          
+
+#Question Number 3:
+Command :
+          touch file87
+          echo "emp004 | Biman | Mukhopadhyay | sales
+          emp009 | Anurag | Sarkar | admin
+          emp021 | Hitesh | Bagchi | lab
+          emp002 | Suman | Hazra | sales
+          emp078 | Pratap | Banerjee | admin
+          emp065 | Prasun | Das | lab
+          emp082 | Prasanta | Mitra | quality" > file86
+Output :
+
+
+
+#Question Number 4:
+Command :
+          cut -d "|" -f 1,2 file86
+Output :  
+          emp004 | Biman
+          emp009 | Anurag
+          emp021 | Hitesh
+          emp002 | Suman
+          emp078 | Pratap
+          emp065 | Prasun
+          emp082 | Prasanta
+          
+          
+          
+#Question Number 5:
+Command :
+          cut -d "|" -f 1,3 file86
+Output :  
+          emp004 | Mukhopadhyay
+          emp009 | Sarkar
+          emp021 | Bagchi
+          emp002 | Hazra
+          emp078 | Banerjee
+          emp065 | Das
+          emp082 | Mitra
+
+
+
+#Question Number 6:
+Command :
+          cut -d "|" -f 2,4 file86
+Output :  
+           Biman | sales
+           Anurag | admin
+           Hitesh | lab
+           Suman | sales
+           Pratap | admin
+           Prasun | lab
+           Prasanta | quality
+
+            
+
+
+
+
+          
+          
+          
+          
+
+
+          
