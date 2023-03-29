@@ -98,6 +98,97 @@ Output :
            Pratap | admin
            Prasun | lab
            Prasanta | quality
+           
+           
+           
+#Question Number 7:
+Command :
+          head -n 3 file86
+Output :  
+          emp004 | Biman | Mukhopadhyay | sales
+          emp009 | Anurag | Sarkar | admin
+          emp021 | Hitesh | Bagchi | lab
+          
+          
+          
+#Question Number 8:
+Command :
+          head -1 file86 | cut -c -3
+Output :  
+          emp
+          
+          
+          
+#Question Number 9:
+Command :
+          ls -l file86 | cut -d " " -f 1
+Output :  
+          98021
+          
+          
+#Question Number 10:
+Command :
+          head -3 file86
+Output :  
+          emp004 | Biman | Mukhopadhyay | sales
+          emp009 | Anurag | Sarkar | admin
+          emp021 | Hitesh | Bagchi | lab
+          
+          
+          
+#Question Number 11:
+Command :
+          tail -2 file86
+Output :  
+          emp065 | Prasun | Das | lab
+          emp082 | Prasanta | Mitra | quality
+          
+          
+
+#Question Number 12:
+Command :
+          tail -n 1 file86 | cut -d " " -f 4
+Output :  
+         quality
+
+           
+#Question Number 13:
+Command :
+          sed -n '3p' file86
+Output :  
+          emp021 | Hitesh | Bagchi | lab
+          
+
+
+#Question Number 14:
+Command :
+          sed -n '3,5p' file86
+Output :  
+          emp021 | Hitesh | Bagchi | lab
+          emp002 | Suman | Hazra | sales
+          emp078 | Pratap | Banerjee | admin
+          
+          
+          
+#Question Number 15:
+Command :
+          cat file86 FILE87 > combined_file
+Output :  
+         
+
+
+#Question Number 15:
+Command :
+          -d"#" file86 file87
+Output :  
+          emp004 | Biman | Mukhopadhyay | sales#emp004 | representative
+          emp009 I Anurag | Sarkar | admin#emp009 I service manager
+          emp021 | Hitesh | Bagchi | lab#emp021 | scientist
+          emp002 | Suman | Hazra | sales#emp002 | Business support
+          emp078 | Pratap | Banerjee | admin#emp078 | support manager
+          emp065 | Prasun | Das | lab#emp065 | technician
+          emp082 | Prasanta | Mitra | quality#emp082 | quality control inspector
+
 
             
 
