@@ -182,7 +182,7 @@ Command :
           -d"#" file86 file87
 Output :  
           emp004 | Biman | Mukhopadhyay | sales#emp004 | representative
-          emp009 I Anurag | Sarkar | admin#emp009 I service manager
+          emp009 | Anurag | Sarkar | admin#emp009 | service manager
           emp021 | Hitesh | Bagchi | lab#emp021 | scientist
           emp002 | Suman | Hazra | sales#emp002 | Business support
           emp078 | Pratap | Banerjee | admin#emp078 | support manager
