@@ -1,0 +1,11 @@
+Car information:
+Wheels: 4
+Speed: 120
+Passengers: 5
+
+Truck information:
+Wheels: 6
+Speed: 80
+Load limit: 5000
+
+The car is faster than the truck.
