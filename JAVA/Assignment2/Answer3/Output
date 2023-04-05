@@ -1,0 +1,13 @@
+#Output 1 :
+Enter the shape type (Circle/Square): Circle
+Drawing a Circle.
+
+
+#Output 2 :
+Enter the shape type (Circle/Square): Square
+Drawing a Square.
+
+
+#Output 3 :
+Enter the shape type (Circle/Square): Rectangle
+Invalid shape type.
