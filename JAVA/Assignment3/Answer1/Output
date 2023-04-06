@@ -1,0 +1,63 @@
+#Output 1:
+1. Volume Up
+2. Volume Down
+3. Channel Up
+4. Channel Down
+0. Exit
+Enter your choice: 1
+Current TV volume: 1
+
+1. Volume Up
+2. Volume Down
+3. Channel Up
+4. Channel Down
+0. Exit
+Enter your choice: 1
+Current TV volume: 2
+
+1. Volume Up
+2. Volume Down
+3. Channel Up
+4. Channel Down
+0. Exit
+Enter your choice: 3
+Current TV channel: 2
+
+1. Volume Up
+2. Volume Down
+3. Channel Up
+4. Channel Down
+0. Exit
+Enter your choice: 3
+Current TV channel: 3
+
+1. Volume Up
+2. Volume Down
+3. Channel Up
+4. Channel Down
+0. Exit
+Enter your choice: 4
+Current TV channel: 2
+
+1. Volume Up
+2. Volume Down
+3. Channel Up
+4. Channel Down
+0. Exit
+Enter your choice: 0
+Exiting program...
+
+
+
+
+
+
+
+#Output 2:
+1. Volume Up
+2. Volume Down
+3. Channel Up
+4. Channel Down
+0. Exit
+Enter your choice: 0
+Exiting program...
