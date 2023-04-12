@@ -2,7 +2,7 @@
 
 <h3 align="left">Department Of MCA</h3>
 
-<a href="https://www.ticollege.ac.in/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZwcc06y4lGR8-_dz_ibD4oVEXKYRVsTl3PQ&usqp=CAU" alt="tmsl"/></a>
+<a href="https://www.ticollege.ac.in/" target="blank"><img align="center" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZwcc06y4lGR8-_dz_ibD4oVEXKYRVsTl3PQ&usqp=CAU](https://media.licdn.com/dms/image/D5603AQFyft4jUv-P7Q/profile-displayphoto-shrink_800_800/0/1677033484333?e=1686787200&v=beta&t=TH1XU98TavbSJNfRk6qp2OSSnR4xpHLkdrK9Qa5d318)" alt="koushik"/></a>
 
 <a href="https://www.ticollege.ac.in/" target="blank"><img align="center" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZwcc06y4lGR8-_dz_ibD4oVEXKYRVsTl3PQ&usqp=CAU](https://avatars.githubusercontent.com/u/106190199?s=400&u=cc9268e351b9a41a7b19076111bafe743e5a5e93&v=4)" alt="tmsl"/></a>
 
