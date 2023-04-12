@@ -1,7 +1,7 @@
 <h2 align="left">Lab Assignment</h2>
 <h3 align="left">Department Of MCA</h3>
 
-<h2 href="https://www.ticollege.ac.in/" target="_blank" rel="noreferrer"><img align="center" src="https://www.ticollege.ac.in/images/tmsl-logo.png" width="200" height="50" alt="tmsl"/></h2>
+<a href="https://www.ticollege.ac.in/" target="_blank" rel="noreferrer"><img align="center" src="https://www.ticollege.ac.in/images/tmsl-logo.png" width="200" height="50" alt="tmsl"/></a>
 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="40" height="40"/> </a>
 
