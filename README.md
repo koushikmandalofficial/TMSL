@@ -5,7 +5,7 @@
 
 <h1  align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Koushik+Mandal;Please+Don't+Copy+Pest+The+Assignment,;Try+Your+Self+First,;I+Just+Upload+For+Your+Understanding"></h1>
 
-<h1 align="center" href="https://koushikmandal.bio.link/" target="blank"><img align="center" src="http://blog.mailglo.com/wp-content/uploads/2015/10/mailglo-visit_my_web-red1.png" width="150" height="40" alt="koushik"/></h1>
+<h1 align="center" href="https://koushikmandal.bio.link/" target="blank"><img align="center" src="http://blog.mailglo.com/wp-content/uploads/2015/10/mailglo-visit_my_web-red1.png" width="200" height="60" alt="koushik"/></h1>
 
 **Compiled By** <a href="https://github.com/koushikmandalofficial" target="blank">**Koushik Mandal**</a>
 <br/>
