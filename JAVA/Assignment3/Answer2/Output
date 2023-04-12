@@ -1,0 +1,6 @@
+AOne.f1() called.
+AOne.f2() called.
+BOne.f1() called.
+BOne.f2() called.
+COne.f1() called.
+COne.f2() called.
