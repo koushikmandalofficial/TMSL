@@ -4,9 +4,7 @@
 
 <h1  align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Koushik+Mandal;Please+Don't+Copy+Pest+The+Assignment,;Try+Your+Self+First,;I+Just+Upload+For+Your+Understanding"></h1>
 
-<a href="https://www.ticollege.ac.in/" target="blank"><img align="center" src="https://media.licdn.com/dms/image/D5603AQFyft4jUv-P7Q/profile-displayphoto-shrink_800_800/0/1677033484333?e=1686787200&v=beta&t=TH1XU98TavbSJNfRk6qp2OSSnR4xpHLkdrK9Qa5d318" width="400" height="400" alt="koushik"/></a>
-
-<a href="https://koushikmandal.bio.link/" target="blank"><img align="center" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZwcc06y4lGR8-_dz_ibD4oVEXKYRVsTl3PQ&usqp=CAU](https://avatars.githubusercontent.com/u/106190199?s=400&u=cc9268e351b9a41a7b19076111bafe743e5a5e93&v=4)" alt="tmsl"/></a>
+<h1 align="center" href="https://koushikmandal.bio.link/" target="blank"><img align="center" src="http://blog.mailglo.com/wp-content/uploads/2015/10/mailglo-visit_my_web-red1.png" width="150" height="40" alt="koushik"/></h1>
 
 **Compiled By** <a href="https://github.com/koushikmandalofficial" target="blank">**Koushik Mandal**</a>
 <br/>
