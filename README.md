@@ -1,7 +1,7 @@
 <h2 align="left">Lab Assignment</h2>
 <h3 align="left">Department Of MCA</h3>
 
-<a href="https://www.ticollege.ac.in/" target="_blank" rel="noreferrer"><img align="center" src="https://www.ticollege.ac.in/images/tmsl-logo.png" width="200" height="50" alt="tmsl"/></a>
+<a href="https://www.ticollege.ac.in/" target="_blank" rel="noreferrer"><img align="center" src="https://www.ticollege.ac.in/images/tmsl-logo.png" width="180" height="45" alt="tmsl"/></a>
 
 <h1  align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Koushik+Mandal;Please+Don't+Copy+Pest+The+Assignment,;Try+Your+Self+First,;I+Just+Upload+For+Your+Understanding"></h1>
 
