@@ -3,11 +3,9 @@
 
 <a href="https://www.ticollege.ac.in/" target="_blank" rel="noreferrer"><img align="center" src="https://www.ticollege.ac.in/images/tmsl-logo.png" width="200" height="50" alt="tmsl"/></a>
 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="mysql" width="40" height="40"/> </a>
-
 <h1  align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Koushik+Mandal;Please+Don't+Copy+Pest+The+Assignment,;Try+Your+Self+First,;I+Just+Upload+For+Your+Understanding"></h1>
 
-<h1 align="center" href="https://koushikmandal.bio.link/" target="blank"><img align="center" src="http://blog.mailglo.com/wp-content/uploads/2015/10/mailglo-visit_my_web-red1.png" width="180" height="50" alt="koushik"/></h1>
+<p align="center" href="https://koushikmandal.bio.link/" target="blank"><img src="http://blog.mailglo.com/wp-content/uploads/2015/10/mailglo-visit_my_web-red1.png" width="180" height="50" alt="koushik"></p>
 
 **Compiled By** <a href="https://github.com/koushikmandalofficial" target="blank">**Koushik Mandal**</a>
 <br/>
