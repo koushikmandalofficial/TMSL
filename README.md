@@ -2,7 +2,7 @@
 
 <h3 align="left">Department Of MCA</h3>
 
-<h1  align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Koushik+Mandal;Please+_Don't+Copy+Pest+The Assignment,;I+Just+Upload+For+Your+Understanding"></h1>
+<h1  align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Koushik+Mandal;Please+Don't+Copy+Pest+The Assignment,;I+Just+Upload+For+Your+Understanding"></h1>
 
 <h1  align="center" href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+👋,+I'm+Koushik+Mandal;A+passionate+Native+Android+developer,;1st+Year+MCA+Student,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></h1>
 
