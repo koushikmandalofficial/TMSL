@@ -4,6 +4,8 @@
 
 <a href="https://www.ticollege.ac.in/" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZwcc06y4lGR8-_dz_ibD4oVEXKYRVsTl3PQ&usqp=CAU" alt="tmsl"/></a>
 
+<a href="https://www.ticollege.ac.in/" target="blank"><img align="center" src="[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZwcc06y4lGR8-_dz_ibD4oVEXKYRVsTl3PQ&usqp=CAU](https://avatars.githubusercontent.com/u/106190199?s=400&u=cc9268e351b9a41a7b19076111bafe743e5a5e93&v=4)" alt="tmsl"/></a>
+
 **Compiled By** <a href="https://github.com/koushikmandalofficial" target="blank">**Koushik Mandal**</a>
 <br/>
 <h3 align="left">Connect with me 🤝</h3>
