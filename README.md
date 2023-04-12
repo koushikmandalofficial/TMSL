@@ -1,4 +1,4 @@
-# Lab Assignment
+<h2 align="left">Lab Assignment</h2>
 
 <h3 align="left">Department Of MCA</h3>
 
