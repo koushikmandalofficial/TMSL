@@ -1,0 +1,10 @@
+I am the Parent
+My PID is 6488
+My child id is 6489
+I am the child
+My PID is 6489 
+My PPID is 6488 
+Parent Killed
+
+Now i am an orphan
+My PPID is 1520
