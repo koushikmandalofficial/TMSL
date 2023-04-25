@@ -1,0 +1,4 @@
+fork message starting
+This is the parent This is the child This is the child This is the parent This is the parent This is the child This is the parent This is the parent
+Child has finished :PID=7294
+Child exited with code 37
