@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class FileReaderExample {
     public static void main(String[] args) {
-        String folderPath = "C:\\Users\\HP\\Desktop\\JavaTest";
+        String folderPath = "C:\\Users\\Koushik\\Desktop\\JavaTest";
         int totalFiles = 0;
 
         // List all files in the folder
