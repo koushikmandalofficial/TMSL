@@ -3,7 +3,7 @@ import java.io.IOException;
 
 public class WriteToFile {
     public static void main(String[] args) {
-        String fileName = "demofile.txt";
+        String fileName = "file4.txt";
         String data = "Object Oriented Programming world.\n"
                     + "Java is Object Oriented Programming Language.\n"
                     + "Java is Platform independent language.\n"
